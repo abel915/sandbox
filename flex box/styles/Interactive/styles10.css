@@ -1,0 +1,38 @@
+.store {
+    padding-left: 100px;
+    margin-top: -70px;
+    color:rgb(112, 2, 112);
+}
+
+.box {
+    margin-left: 70px;
+    margin-top: 50px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.box a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#home a:first-child {
+    background-color: rgb(143, 208, 230);
+}
+
+#contact a:last-child {
+    background-color: rgb(143, 208, 230);
+}
+
+.input {
+    text-align: center;
+}
+
+.end {
+    margin-top: 200px;
+    text-align: center;
+}
